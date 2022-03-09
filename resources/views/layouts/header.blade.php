@@ -13,6 +13,9 @@
                               <li class="nav-item">
                                 <a class="nav-link tm-nav-link" href="contact-us">Contact</a>
                               </li>
+                              <li class="nav-item">
+                                <a class="nav-link tm-nav-link" href="product">Products</a>
+                              </li>
                             </ul>
                             <!-- Links -->
                         

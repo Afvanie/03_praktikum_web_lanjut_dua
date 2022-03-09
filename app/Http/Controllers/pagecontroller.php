@@ -27,4 +27,8 @@ class pagecontroller extends Controller
     {
         return view('contact', ['title' => '- Contact Us']);
     }
+    public function product()
+    {
+        return view('product', ['title' => '- product']);
+    }
 }
