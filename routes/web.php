@@ -54,8 +54,7 @@ use App\Http\Controllers\pagecontroller;
 
 Route::get('/', [pagecontroller::class, 'home']);
 Route::get('/product', [ProductController::class, 'index']);
-Route::get('/program', [pagecontroller::class, 'program']);
+Route::get('/contact', [pagecontroller::class, 'contact']);
 Route::get('/news', [pagecontroller::class, 'news']);
 Route::get('/about', [pagecontroller::class, 'about']);
-Route::get('/contact', [pagecontroller::class, 'contact']);
 
